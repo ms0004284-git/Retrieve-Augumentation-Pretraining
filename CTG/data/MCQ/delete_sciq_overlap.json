@@ -1,0 +1,488 @@
+[
+    {
+        "answer": "two",
+        "distractors": [
+            "three",
+            "four",
+            "twelve"
+        ],
+        "sentence": "Insulin is made up of **blank** many polypeptide chains "
+    },
+    {
+        "answer": "liver",
+        "distractors": [
+            "kidney",
+            "pancreas",
+            "heart"
+        ],
+        "sentence": "**blank** creates bile"
+    },
+    {
+        "answer": "molecule",
+        "distractors": [
+            "element",
+            "synthesis",
+            "nucleus"
+        ],
+        "sentence": "**blank** is used for any combination of two or more atoms"
+    },
+    {
+        "answer": "cervix",
+        "distractors": [
+            "urethra",
+            "ovary",
+            "vulva"
+        ],
+        "sentence": "the name of the part that connects the vagina with the uterus is **blank**"
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "magma",
+            "gases",
+            "air"
+        ],
+        "sentence": "Geysers are created when **blank** is heated beneath the earth 's surface "
+    },
+    {
+        "answer": "weight",
+        "distractors": [
+            "factor",
+            "mass",
+            "volume"
+        ],
+        "sentence": "the measure of the force of gravity is pulling down on an object called **blank**"
+    },
+    {
+        "answer": "placenta",
+        "distractors": [
+            "uterus",
+            "glucose",
+            "Stomach"
+        ],
+        "sentence": "A yolk sac replaces **blank** structure for nourishing a marsupial embryo "
+    },
+    {
+        "answer": "fertilization",
+        "distractors": [
+            "Sperm",
+            "embryo",
+            "stimulation"
+        ],
+        "sentence": "the process of the fusion of a sperm and an egg is called **blank**"
+    },
+    {
+        "answer": "pronation",
+        "distractors": [
+            "extension",
+            "flexion",
+            "supination"
+        ],
+        "sentence": "the motion that moves the forearm from the supinated position to the pronated position is **blank**"
+    },
+    {
+        "answer": "insects",
+        "distractors": [
+            "fruits",
+            "spiders",
+            "mice"
+        ],
+        "sentence": "**blank** are essential for pollination , but can spread disease and destroy crops"
+    },
+    {
+        "answer": "elements",
+        "distractors": [
+            "compounds",
+            "protons",
+            "matter"
+        ],
+        "sentence": "Metalloids , metals , and nonmetals are all classes of **blank** "
+    },
+    {
+        "answer": "radiation",
+        "distractors": [
+            "convection",
+            "electric",
+            "thermal"
+        ],
+        "sentence": "**blank** of invisible waves are used in microwaves"
+    },
+    {
+        "answer": "heart",
+        "distractors": [
+            "stomach",
+            "lungs",
+            "pancreas"
+        ],
+        "sentence": "**blank** muscular organ pumps blood all around your body "
+    },
+    {
+        "answer": "estrogen",
+        "distractors": [
+            "glucose",
+            "insulin",
+            "testosterone"
+        ],
+        "sentence": "**blank** causes the changes of puberty"
+    },
+    {
+        "answer": "xylem",
+        "distractors": [
+            "collagen",
+            "ectoderm",
+            "phloem"
+        ],
+        "sentence": "**blank** of plant tissue transports water and dissolved mineral upward to the leaves"
+    },
+    {
+        "answer": "liquid",
+        "distractors": [
+            "mixture",
+            "water",
+            "Base"
+        ],
+        "sentence": "Surface tension is a property of matter that is in **blank** state "
+    },
+    {
+        "answer": "aorta",
+        "distractors": [
+            "carotid",
+            "subclavian",
+            "femoral"
+        ],
+        "sentence": "the largest artery in the body is called **blank**"
+    },
+    {
+        "answer": "current",
+        "distractors": [
+            "pressure",
+            "resistance",
+            "density"
+        ],
+        "sentence": "A switch in a circuit controls the flow of **blank** , specifically , within the circuit "
+    },
+    {
+        "answer": "dispersal",
+        "distractors": [
+            "propagation",
+            "disposal",
+            "predation"
+        ],
+        "sentence": "Because they spread seeds , fruits are an agent of **blank** "
+    },
+    {
+        "answer": "unicellular",
+        "distractors": [
+            "multicellular",
+            "photosynthetic",
+            "immature"
+        ],
+        "sentence": "protists normally are **blank** of eukaryotes"
+    },
+    {
+        "answer": "simple",
+        "distractors": [
+            "strong",
+            "complex",
+            "weak"
+        ],
+        "sentence": "An inclined plane is a good example of **blank** kind of machine "
+    },
+    {
+        "answer": "axis",
+        "distractors": [
+            "radius",
+            "leaves",
+            "pistol"
+        ],
+        "sentence": "**blank** of the plant has a root end and a shoot end"
+    },
+    {
+        "answer": "physical",
+        "distractors": [
+            "chemical",
+            "visible",
+            "thermal"
+        ],
+        "sentence": "Hardness , density , color , and melting and boiling points are all considered **blank** types of properties "
+    },
+    {
+        "answer": "hormones",
+        "distractors": [
+            "acids",
+            "bases",
+            "enzymes"
+        ],
+        "sentence": "Low levels of thyroid hormones in the blood cause the release of **blank** by the hypothalamus and pituitary gland "
+    },
+    {
+        "answer": "analytical",
+        "distractors": [
+            "philosophical",
+            "reactive",
+            "symbolic"
+        ],
+        "sentence": "the study of the composition of matter is **blank** of chemistry"
+    },
+    {
+        "answer": "heart",
+        "distractors": [
+            "stomach",
+            "brain",
+            "skin"
+        ],
+        "sentence": "Regularly done aerobic activities can help build up endurance and make **blank** vital organ stronger "
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "speed",
+            "work",
+            "pressure"
+        ],
+        "sentence": "all chemical sections need **blank** to get started"
+    },
+    {
+        "answer": "chemicals",
+        "distractors": [
+            "seeds",
+            "manure",
+            "water"
+        ],
+        "sentence": "people apply to their lawns that causes water pollution **blank**"
+    },
+    {
+        "answer": "adaptations",
+        "distractors": [
+            "systems",
+            "additions",
+            "Changes"
+        ],
+        "sentence": "**blank** help it survive"
+    },
+    {
+        "answer": "solvent",
+        "distractors": [
+            "solute",
+            "mixture",
+            "water"
+        ],
+        "sentence": "The major component of a solution is called **blank** "
+    },
+    {
+        "answer": "swallowing",
+        "distractors": [
+            "breathing",
+            "staring",
+            "pulling"
+        ],
+        "sentence": "The muscles of the anterior neck assist in deglutition also known as **blank** "
+    },
+    {
+        "answer": "exhalation",
+        "distractors": [
+            "peroxidation",
+            "fermentation",
+            "evaporation"
+        ],
+        "sentence": "carbon dioxide and water vapor that is produced by cellular respiration released is **blank**"
+    },
+    {
+        "answer": "ecosystem",
+        "distractors": [
+            "community",
+            "population",
+            "biome"
+        ],
+        "sentence": "A group of living things and their environment is called **blank** "
+    },
+    {
+        "answer": "asexual",
+        "distractors": [
+            "primitive",
+            "algal",
+            "sexual"
+        ],
+        "sentence": "Binary fission is an example of **blank** type of production "
+    },
+    {
+        "answer": "fossils",
+        "distractors": [
+            "archives",
+            "deposits",
+            "skulls"
+        ],
+        "sentence": "Preserved remains or traces of organisms that lived in the past are known as **blank** "
+    },
+    {
+        "answer": "lava",
+        "distractors": [
+            "helium",
+            "grasses",
+            "water"
+        ],
+        "sentence": "Radar maps of venus show that it has mountains , canyons and volcanoes surrounded by plains of **blank** "
+    },
+    {
+        "answer": "alveoli",
+        "distractors": [
+            "brachii",
+            "testes",
+            "glands"
+        ],
+        "sentence": "The lungs are a series of ever-narrowing tubes that end in a myriad of tiny sacs called **blank** "
+    },
+    {
+        "answer": "oxygen",
+        "distractors": [
+            "food",
+            "sulfur",
+            "nitrogen"
+        ],
+        "sentence": "Fish and other aquatic organisms use gills to capture dissolved **blank** "
+    },
+    {
+        "answer": "adulthood",
+        "distractors": [
+            "adolescence",
+            "death",
+            "childhood"
+        ],
+        "sentence": "**blank** does not have a definite starting point"
+    },
+    {
+        "answer": "ventricles",
+        "distractors": [
+            "vacuoles",
+            "cells",
+            "valves"
+        ],
+        "sentence": "**blank** are responsible for pumping blood out of the heart"
+    },
+    {
+        "answer": "menopause",
+        "distractors": [
+            "puberty",
+            "maturity",
+            "adolescence"
+        ],
+        "sentence": "the term for the period during which women 's ovaries stop producing eggs is **blank**"
+    },
+    {
+        "answer": "charophytes",
+        "distractors": [
+            "mammals",
+            "arthropods",
+            "sporozoans"
+        ],
+        "sentence": "the closest living relations are **blank** to land plants"
+    },
+    {
+        "answer": "probability",
+        "distractors": [
+            "mutation",
+            "difficulty",
+            "procession"
+        ],
+        "sentence": "it is called **blank** when the chance that a certain event will occur"
+    },
+    {
+        "answer": "diamonds",
+        "distractors": [
+            "titanium",
+            "gold",
+            "platinum"
+        ],
+        "sentence": "the hardest of all minerals is **blank**"
+    },
+    {
+        "answer": "bioremediation",
+        "distractors": [
+            "generation",
+            "coagulation",
+            "biodegradation"
+        ],
+        "sentence": "Use of oil-consuming bacteria to clean up an oil spill is an example of **blank** "
+    },
+    {
+        "answer": "reproduction",
+        "distractors": [
+            "variation",
+            "photosynthesis",
+            "diversification"
+        ],
+        "sentence": "the process is called in which living things produce offspring **blank**"
+    },
+    {
+        "answer": "depolarization",
+        "distractors": [
+            "inflammation",
+            "permeability",
+            "reproduction"
+        ],
+        "sentence": "The outer surface of the heart changes from positive to negative during **blank** "
+    },
+    {
+        "answer": "gnetophytes",
+        "distractors": [
+            "staurikosaurus",
+            "mitochondria",
+            "sporozoans"
+        ],
+        "sentence": "the closest relatives to modern angiosperms are **blank**"
+    },
+    {
+        "answer": "earth",
+        "distractors": [
+            "saturn",
+            "jupiter",
+            "mars"
+        ],
+        "sentence": "the only known planet with large amounts of water is **blank**"
+    },
+    {
+        "answer": "osteoporosis",
+        "distractors": [
+            "arthritis",
+            "tuberculosis",
+            "fibrosis"
+        ],
+        "sentence": "the disease in which bones lose mass and become more fragile and likely to break is **blank**"
+    },
+    {
+        "answer": "mechanical",
+        "distractors": [
+            "slow",
+            "simple",
+            "electromagnetic"
+        ],
+        "sentence": "a purely physical process that does not change the chemical nature of the food is **blank**"
+    },
+    {
+        "answer": "coefficients",
+        "distractors": [
+            "velocities",
+            "densities",
+            "fractions"
+        ],
+        "sentence": "**blank** are used to balance chemical equations"
+    },
+    {
+        "answer": "landforms",
+        "distractors": [
+            "atmospheres",
+            "diversity",
+            "biospheres"
+        ],
+        "sentence": "Physical features on the earth 's surface are known as **blank**"
+    },
+    {
+        "answer": "sperm",
+        "distractors": [
+            "plasma",
+            "spore",
+            "ova"
+        ],
+        "sentence": "In sexual reproduction , **blank** is the name of the gamete cell the male must contribute "
+    }
+]

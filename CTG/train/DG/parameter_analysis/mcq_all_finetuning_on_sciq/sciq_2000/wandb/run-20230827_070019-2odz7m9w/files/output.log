@@ -1,0 +1,721 @@
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-63
+Configuration saved in ./results-1/checkpoint-63/config.json
+Model weights saved in ./results-1/checkpoint-63/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-63/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-63/special_tokens_map.json
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-126
+Configuration saved in ./results-1/checkpoint-126/config.json
+Model weights saved in ./results-1/checkpoint-126/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-126/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-126/special_tokens_map.json
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-189
+Configuration saved in ./results-1/checkpoint-189/config.json
+Model weights saved in ./results-1/checkpoint-189/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-189/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-189/special_tokens_map.json
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-252
+Configuration saved in ./results-1/checkpoint-252/config.json
+Model weights saved in ./results-1/checkpoint-252/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-252/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-252/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-63] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-315
+Configuration saved in ./results-1/checkpoint-315/config.json
+Model weights saved in ./results-1/checkpoint-315/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-315/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-315/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-126] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-378
+Configuration saved in ./results-1/checkpoint-378/config.json
+Model weights saved in ./results-1/checkpoint-378/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-378/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-378/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-189] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-441
+Configuration saved in ./results-1/checkpoint-441/config.json
+Model weights saved in ./results-1/checkpoint-441/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-441/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-441/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-252] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-504
+Configuration saved in ./results-1/checkpoint-504/config.json
+Model weights saved in ./results-1/checkpoint-504/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-504/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-504/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-315] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-567
+Configuration saved in ./results-1/checkpoint-567/config.json
+Model weights saved in ./results-1/checkpoint-567/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-567/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-567/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-378] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-630
+Configuration saved in ./results-1/checkpoint-630/config.json
+Model weights saved in ./results-1/checkpoint-630/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-630/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-630/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-441] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-693
+Configuration saved in ./results-1/checkpoint-693/config.json
+Model weights saved in ./results-1/checkpoint-693/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-693/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-693/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-504] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-756
+Configuration saved in ./results-1/checkpoint-756/config.json
+Model weights saved in ./results-1/checkpoint-756/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-756/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-756/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-630] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-819
+Configuration saved in ./results-1/checkpoint-819/config.json
+Model weights saved in ./results-1/checkpoint-819/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-819/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-819/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-693] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-882
+Configuration saved in ./results-1/checkpoint-882/config.json
+Model weights saved in ./results-1/checkpoint-882/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-882/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-882/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-567] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-945
+Configuration saved in ./results-1/checkpoint-945/config.json
+Model weights saved in ./results-1/checkpoint-945/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-945/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-945/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-756] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1008
+Configuration saved in ./results-1/checkpoint-1008/config.json
+Model weights saved in ./results-1/checkpoint-1008/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1008/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1008/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-819] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1071
+Configuration saved in ./results-1/checkpoint-1071/config.json
+Model weights saved in ./results-1/checkpoint-1071/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1071/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1071/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-882] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1134
+Configuration saved in ./results-1/checkpoint-1134/config.json
+Model weights saved in ./results-1/checkpoint-1134/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1134/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1134/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-945] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1197
+Configuration saved in ./results-1/checkpoint-1197/config.json
+Model weights saved in ./results-1/checkpoint-1197/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1197/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1197/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1008] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1260
+Configuration saved in ./results-1/checkpoint-1260/config.json
+Model weights saved in ./results-1/checkpoint-1260/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1260/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1260/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1134] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1323
+Configuration saved in ./results-1/checkpoint-1323/config.json
+Model weights saved in ./results-1/checkpoint-1323/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1323/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1323/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1071] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1386
+Configuration saved in ./results-1/checkpoint-1386/config.json
+Model weights saved in ./results-1/checkpoint-1386/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1386/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1386/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1197] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1449
+Configuration saved in ./results-1/checkpoint-1449/config.json
+Model weights saved in ./results-1/checkpoint-1449/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1449/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1449/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1260] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1512
+Configuration saved in ./results-1/checkpoint-1512/config.json
+Model weights saved in ./results-1/checkpoint-1512/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1512/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1512/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1386] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1575
+Configuration saved in ./results-1/checkpoint-1575/config.json
+Model weights saved in ./results-1/checkpoint-1575/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1575/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1575/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1449] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1638
+Configuration saved in ./results-1/checkpoint-1638/config.json
+Model weights saved in ./results-1/checkpoint-1638/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1638/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1638/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1512] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1701
+Configuration saved in ./results-1/checkpoint-1701/config.json
+Model weights saved in ./results-1/checkpoint-1701/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1701/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1701/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1575] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1764
+Configuration saved in ./results-1/checkpoint-1764/config.json
+Model weights saved in ./results-1/checkpoint-1764/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1764/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1764/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1638] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1827
+Configuration saved in ./results-1/checkpoint-1827/config.json
+Model weights saved in ./results-1/checkpoint-1827/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1827/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1827/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1701] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1890
+Configuration saved in ./results-1/checkpoint-1890/config.json
+Model weights saved in ./results-1/checkpoint-1890/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1890/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1890/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1764] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1953
+Configuration saved in ./results-1/checkpoint-1953/config.json
+Model weights saved in ./results-1/checkpoint-1953/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1953/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1953/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1827] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2016
+Configuration saved in ./results-1/checkpoint-2016/config.json
+Model weights saved in ./results-1/checkpoint-2016/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2016/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2016/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1890] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2079
+Configuration saved in ./results-1/checkpoint-2079/config.json
+Model weights saved in ./results-1/checkpoint-2079/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2079/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2079/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1953] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2142
+Configuration saved in ./results-1/checkpoint-2142/config.json
+Model weights saved in ./results-1/checkpoint-2142/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2142/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2142/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2016] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2205
+Configuration saved in ./results-1/checkpoint-2205/config.json
+Model weights saved in ./results-1/checkpoint-2205/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2205/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2205/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2079] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2268
+Configuration saved in ./results-1/checkpoint-2268/config.json
+Model weights saved in ./results-1/checkpoint-2268/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2268/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2268/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2142] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2331
+Configuration saved in ./results-1/checkpoint-2331/config.json
+Model weights saved in ./results-1/checkpoint-2331/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2331/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2331/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2205] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2394
+Configuration saved in ./results-1/checkpoint-2394/config.json
+Model weights saved in ./results-1/checkpoint-2394/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2394/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2394/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2268] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2457
+Configuration saved in ./results-1/checkpoint-2457/config.json
+Model weights saved in ./results-1/checkpoint-2457/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2457/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2457/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2331] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2520
+Configuration saved in ./results-1/checkpoint-2520/config.json
+Model weights saved in ./results-1/checkpoint-2520/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2520/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2520/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2394] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2583
+Configuration saved in ./results-1/checkpoint-2583/config.json
+Model weights saved in ./results-1/checkpoint-2583/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2583/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2583/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2457] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2646
+Configuration saved in ./results-1/checkpoint-2646/config.json
+Model weights saved in ./results-1/checkpoint-2646/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2646/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2646/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2520] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2709
+Configuration saved in ./results-1/checkpoint-2709/config.json
+Model weights saved in ./results-1/checkpoint-2709/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2709/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2709/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2583] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2772
+Configuration saved in ./results-1/checkpoint-2772/config.json
+Model weights saved in ./results-1/checkpoint-2772/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2772/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2772/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2646] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2835
+Configuration saved in ./results-1/checkpoint-2835/config.json
+Model weights saved in ./results-1/checkpoint-2835/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2835/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2835/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2709] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2898
+Configuration saved in ./results-1/checkpoint-2898/config.json
+Model weights saved in ./results-1/checkpoint-2898/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2898/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2898/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2772] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2961
+Configuration saved in ./results-1/checkpoint-2961/config.json
+Model weights saved in ./results-1/checkpoint-2961/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2961/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2961/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2835] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-3024
+Configuration saved in ./results-1/checkpoint-3024/config.json
+Model weights saved in ./results-1/checkpoint-3024/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-3024/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-3024/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2898] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-3087
+Configuration saved in ./results-1/checkpoint-3087/config.json
+Model weights saved in ./results-1/checkpoint-3087/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-3087/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-3087/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2961] due to args.save_total_limit
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-3150
+Configuration saved in ./results-1/checkpoint-3150/config.json
+Model weights saved in ./results-1/checkpoint-3150/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-3150/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-3150/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-3024] due to args.save_total_limit
+Training completed. Do not forget to share your model on huggingface.co/models =)
+Loading best model from ./results-1/checkpoint-1323 (score: 0.171).
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+Saving model checkpoint to /user_data/CTG/train/DG/parameter_analysis/mcq_all_finetuning_on_sciq/sciq_2000/model/t5-base-text2text-sciq-off-shelf-2000
+Configuration saved in /user_data/CTG/train/DG/parameter_analysis/mcq_all_finetuning_on_sciq/sciq_2000/model/t5-base-text2text-sciq-off-shelf-2000/config.json
+Model weights saved in /user_data/CTG/train/DG/parameter_analysis/mcq_all_finetuning_on_sciq/sciq_2000/model/t5-base-text2text-sciq-off-shelf-2000/pytorch_model.bin
+tokenizer config file saved in /user_data/CTG/train/DG/parameter_analysis/mcq_all_finetuning_on_sciq/sciq_2000/model/t5-base-text2text-sciq-off-shelf-2000/tokenizer_config.json
+Special tokens file saved in /user_data/CTG/train/DG/parameter_analysis/mcq_all_finetuning_on_sciq/sciq_2000/model/t5-base-text2text-sciq-off-shelf-2000/special_tokens_map.json
+***** Running Prediction *****
+  Num examples = 1000
+  Batch size = 16
+***** Running Prediction *****
+  Num examples = 1000
+  Batch size = 16
+valid:
+test:
+Didn't find file /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000/added_tokens.json. We won't load it.
+loading file /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000/spiece.model
+loading file None
+loading file /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000/special_tokens_map.json
+loading file /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000/tokenizer_config.json
+loading configuration file /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000/config.json
+Model config T5Config {
+  "_name_or_path": "t5-base",
+  "architectures": [
+    "T5ForConditionalGeneration"
+  ],
+  "d_ff": 3072,
+  "d_kv": 64,
+  "d_model": 768,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "feed_forward_proj": "relu",
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "t5",
+  "n_positions": 512,
+  "num_decoder_layers": 12,
+  "num_heads": 12,
+  "num_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_max_distance": 128,
+  "relative_attention_num_buckets": 32,
+  "task_specific_params": {
+    "summarization": {
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "max_length": 200,
+      "min_length": 30,
+      "no_repeat_ngram_size": 3,
+      "num_beams": 4,
+      "prefix": "summarize: "
+    },
+    "translation_en_to_de": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to German: "
+    },
+    "translation_en_to_fr": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to French: "
+    },
+    "translation_en_to_ro": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to Romanian: "
+    }
+  },
+  "torch_dtype": "float32",
+  "transformers_version": "4.18.0",
+  "use_cache": true,
+  "vocab_size": 32100
+}
+loading weights file /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000/pytorch_model.bin
+/user_data/CTG/test_result/sciq_test_t5_text2text_off_shelf_2000.json is saved :)
+All model checkpoint weights were used when initializing T5ForConditionalGeneration.
+All the weights of T5ForConditionalGeneration were initialized from the model checkpoint at /user_data/CTG/model/t5-base-text2text-sciq-pretrain-on-sciq-train-passage-level-dtt-retrieve-8000.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use T5ForConditionalGeneration for predictions without further training.
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+***** Running Prediction *****
+  Num examples = 1000
+  Batch size = 64
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Prediction *****
+  Num examples = 1000
+  Batch size = 64
+valid:
+question: Compounds that are capable of accepting electrons, such as o 2 or f2, are called what?
+answer: oxidants
+distractors: ['antioxidants', 'Oxygen', 'residues']
+predict: ['oxides', 'particles', 'anions']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: Which type of tree is dominant in temperate forests?
+answer: deciduous
+distractors: ['vines', 'fungus', 'shrubs']
+predict: ['perennial', 'fibrous', 'coniferous']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: Only about one percent of plants have lost what ability, turning them into consumers and even predators, instead of producers?
+answer: photosynthesis
+distractors: ['flowering', 'rooting', 'growth']
+predict: ['glycolysis', 'atherosclerosis', 'absorption']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: Presence of a cell wall, large central vacuole, and organelles called plastids distinguish what type of cell?
+answer: plant
+distractors: ['animal', 'reproductive', 'heterotroph']
+predict: ['bird', 'animal', 'insect']
+metric: {'P@1': 0.0, 'P@3': 0.3333333333333333, 'R@3': 0.3333333333333333, 'F1@3': 0.3333333333333333}
+question: Digestion of proteins begins with acids in what organ?
+answer: stomach
+distractors: ['colon', 'liver', 'brain']
+predict: ['kidneys', 'skin', 'respiratory']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: In what type of animals may a body cavity be present or absent?
+answer: triploblastic
+distractors: ['vertebrate', 'bicellular', 'nonvascular']
+predict: ['spongin', 'collagen', 'scleroprotein']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?
+answer: plaque
+distractors: ['enamel', 'red blood cells', 'white blood cells']
+predict: ['triglycerides', 'fat', 'marble']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: What record shows that dinosaurs originated 200-250 million years ago?
+answer: fossil record
+distractors: ['ancient record', 'biological record', 'species record']
+predict: ['fossil magnitude', 'coal record', 'fuel cycle']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: Ibuprofen and albuterol are examples of drugs whose _________ have different effects.
+answer: enantiomers
+distractors: ['nanoparticles', 'misnomers', 'analogous']
+predict: ['amines', 'ketones', 'acids']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: What is another name for the vertebral column?
+answer: backbone
+distractors: ['nerve column', 'pillar', 'brain stem']
+predict: ['rib cage', 'umbilical cord', 'brain stem']
+metric: {'P@1': 0.0, 'P@3': 0.3333333333333333, 'R@3': 0.3333333333333333, 'F1@3': 0.3333333333333333}
+question: When equal amounts of a strong acid such as hydrochloric acid are mixed with a strong base such as sodium hydroxide, the result is what kind of solution?
+answer: a neutral one
+distractors: ['a economical one', 'a lateral one', 'a thermodynamic one']
+predict: ['a neutral one', 'a positive one', 'a neutral']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: What is required to move or change matter from one state to another?
+answer: energy
+distractors: ['food', 'gravity', 'evolution']
+predict: ['fuel', 'hydrogen', 'power']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: What unit of measurement is defined to be the number of atoms in 12g of carbon-12?
+answer: one mole
+distractors: ['one quark', 'one joule', 'one ohm']
+predict: ['two mole', 'four electrons', 'one nucleus']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: Movements in the mantle cause the plates to move over time in a process called what?
+answer: continental drift
+distractors: ['continental expansion', 'continental shift', 'boundary drift']
+predict: ['continental drift', 'continental stratosphere', 'continental solution']
+metric: {'P@1': 0.0, 'P@3': 0.0, 'R@3': 0.0, 'F1@3': 0}
+question: With wavelengths from 400-700 nm, what kind of light represents only a very small portion of the spectrum?
+answer: visible light
+distractors: ['invisible light', 'sunlight', 'ultraviolet light']
+predict: ['ultraviolet light', 'apparent light', 'infrared light']

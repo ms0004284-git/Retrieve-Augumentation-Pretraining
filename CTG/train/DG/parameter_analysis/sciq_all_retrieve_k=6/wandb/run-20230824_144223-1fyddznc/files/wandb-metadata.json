@@ -1,0 +1,122 @@
+{
+    "os": "Linux-5.4.0-155-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "heartbeatAt": "2023-08-24T14:42:24.686098",
+    "startedAt": "2023-08-24T14:42:23.897979",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "ea82dd03c4cd",
+    "username": "110_ms_yuan",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2237.1121875000003,
+        "min": 2200.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2163.728,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2175.492,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2871.163,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2132.047,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2190.238,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2190.103,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2188.475,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2192.494,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2174.737,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2531.126,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2347.701,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2192.449,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2263.318,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1875.6,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2175.802,
+            "min": 2200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2129.322,
+            "min": 2200.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 3665.955093383789,
+        "used": 1873.2951202392578
+    },
+    "gpu": "NVIDIA TITAN RTX",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA TITAN RTX",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA TITAN RTX",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 125.77125549316406
+    }
+}

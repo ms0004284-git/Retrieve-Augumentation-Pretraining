@@ -1,0 +1,11 @@
+資料預處理
+python ./data_preprocessing/process_data.py
+
+過濾有題號的資料
+python ./data_preprocessing/filter_data.py
+
+CLOTH evaluation
+python ./evaluate/evaluate_cloth.py --data_dir ./train/DG/CLOTH/test_result/xxx.json
+
+MCQ evaluation
+python ./evaluate/evaluate_mcq.py --data_dir ./train/DG/MCQ/test_result/xxx.json

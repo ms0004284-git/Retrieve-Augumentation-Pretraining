@@ -1,0 +1,1 @@
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.

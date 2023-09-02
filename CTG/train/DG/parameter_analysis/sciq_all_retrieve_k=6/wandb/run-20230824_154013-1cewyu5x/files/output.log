@@ -1,0 +1,11 @@
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+***** Running Evaluation *****
+  Num examples = 233
+  Batch size = 16
+Saving model checkpoint to ./results-2/checkpoint-66
+Configuration saved in ./results-2/checkpoint-66/config.json
+Model weights saved in ./results-2/checkpoint-66/pytorch_model.bin
+tokenizer config file saved in ./results-2/checkpoint-66/tokenizer_config.json
+Special tokens file saved in ./results-2/checkpoint-66/special_tokens_map.json
+/usr/local/lib/python3.6/dist-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.

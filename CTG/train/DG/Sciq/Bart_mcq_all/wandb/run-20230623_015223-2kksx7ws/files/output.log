@@ -1,0 +1,464 @@
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-730
+Configuration saved in ./results-1/checkpoint-730/config.json
+Model weights saved in ./results-1/checkpoint-730/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-730/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-730/special_tokens_map.json
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-1460
+Configuration saved in ./results-1/checkpoint-1460/config.json
+Model weights saved in ./results-1/checkpoint-1460/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-1460/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-1460/special_tokens_map.json
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2190
+Configuration saved in ./results-1/checkpoint-2190/config.json
+Model weights saved in ./results-1/checkpoint-2190/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2190/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2190/special_tokens_map.json
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-2920
+Configuration saved in ./results-1/checkpoint-2920/config.json
+Model weights saved in ./results-1/checkpoint-2920/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-2920/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-2920/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-730] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-3650
+Configuration saved in ./results-1/checkpoint-3650/config.json
+Model weights saved in ./results-1/checkpoint-3650/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-3650/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-3650/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-1460] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-4380
+Configuration saved in ./results-1/checkpoint-4380/config.json
+Model weights saved in ./results-1/checkpoint-4380/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-4380/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-4380/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2190] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-5110
+Configuration saved in ./results-1/checkpoint-5110/config.json
+Model weights saved in ./results-1/checkpoint-5110/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-5110/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-5110/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-2920] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-5840
+Configuration saved in ./results-1/checkpoint-5840/config.json
+Model weights saved in ./results-1/checkpoint-5840/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-5840/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-5840/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-3650] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-6570
+Configuration saved in ./results-1/checkpoint-6570/config.json
+Model weights saved in ./results-1/checkpoint-6570/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-6570/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-6570/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-5110] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-7300
+Configuration saved in ./results-1/checkpoint-7300/config.json
+Model weights saved in ./results-1/checkpoint-7300/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-7300/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-7300/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-5840] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-8030
+Configuration saved in ./results-1/checkpoint-8030/config.json
+Model weights saved in ./results-1/checkpoint-8030/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-8030/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-8030/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-6570] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-8760
+Configuration saved in ./results-1/checkpoint-8760/config.json
+Model weights saved in ./results-1/checkpoint-8760/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-8760/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-8760/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-7300] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-9490
+Configuration saved in ./results-1/checkpoint-9490/config.json
+Model weights saved in ./results-1/checkpoint-9490/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-9490/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-9490/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-8030] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-10220
+Configuration saved in ./results-1/checkpoint-10220/config.json
+Model weights saved in ./results-1/checkpoint-10220/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-10220/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-10220/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-8760] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-10950
+Configuration saved in ./results-1/checkpoint-10950/config.json
+Model weights saved in ./results-1/checkpoint-10950/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-10950/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-10950/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-9490] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-11680
+Configuration saved in ./results-1/checkpoint-11680/config.json
+Model weights saved in ./results-1/checkpoint-11680/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-11680/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-11680/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-10220] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-12410
+Configuration saved in ./results-1/checkpoint-12410/config.json
+Model weights saved in ./results-1/checkpoint-12410/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-12410/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-12410/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-10950] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-13140
+Configuration saved in ./results-1/checkpoint-13140/config.json
+Model weights saved in ./results-1/checkpoint-13140/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-13140/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-13140/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-11680] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-13870
+Configuration saved in ./results-1/checkpoint-13870/config.json
+Model weights saved in ./results-1/checkpoint-13870/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-13870/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-13870/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-12410] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-14600
+Configuration saved in ./results-1/checkpoint-14600/config.json
+Model weights saved in ./results-1/checkpoint-14600/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-14600/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-14600/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-13140] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-15330
+Configuration saved in ./results-1/checkpoint-15330/config.json
+Model weights saved in ./results-1/checkpoint-15330/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-15330/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-15330/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-13870] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-16060
+Configuration saved in ./results-1/checkpoint-16060/config.json
+Model weights saved in ./results-1/checkpoint-16060/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-16060/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-16060/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-14600] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-16790
+Configuration saved in ./results-1/checkpoint-16790/config.json
+Model weights saved in ./results-1/checkpoint-16790/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-16790/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-16790/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-15330] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-17520
+Configuration saved in ./results-1/checkpoint-17520/config.json
+Model weights saved in ./results-1/checkpoint-17520/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-17520/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-17520/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-16060] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-18250
+Configuration saved in ./results-1/checkpoint-18250/config.json
+Model weights saved in ./results-1/checkpoint-18250/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-18250/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-18250/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-16790] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-18980
+Configuration saved in ./results-1/checkpoint-18980/config.json
+Model weights saved in ./results-1/checkpoint-18980/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-18980/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-18980/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-17520] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-19710
+Configuration saved in ./results-1/checkpoint-19710/config.json
+Model weights saved in ./results-1/checkpoint-19710/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-19710/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-19710/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-18250] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-20440
+Configuration saved in ./results-1/checkpoint-20440/config.json
+Model weights saved in ./results-1/checkpoint-20440/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-20440/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-20440/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-18980] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-21170
+Configuration saved in ./results-1/checkpoint-21170/config.json
+Model weights saved in ./results-1/checkpoint-21170/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-21170/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-21170/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-19710] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-21900
+Configuration saved in ./results-1/checkpoint-21900/config.json
+Model weights saved in ./results-1/checkpoint-21900/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-21900/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-21900/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-20440] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-22630
+Configuration saved in ./results-1/checkpoint-22630/config.json
+Model weights saved in ./results-1/checkpoint-22630/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-22630/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-22630/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-21170] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-23360
+Configuration saved in ./results-1/checkpoint-23360/config.json
+Model weights saved in ./results-1/checkpoint-23360/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-23360/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-23360/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-21900] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-24090
+Configuration saved in ./results-1/checkpoint-24090/config.json
+Model weights saved in ./results-1/checkpoint-24090/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-24090/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-24090/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-22630] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-24820
+Configuration saved in ./results-1/checkpoint-24820/config.json
+Model weights saved in ./results-1/checkpoint-24820/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-24820/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-24820/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-23360] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-25550
+Configuration saved in ./results-1/checkpoint-25550/config.json
+Model weights saved in ./results-1/checkpoint-25550/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-25550/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-25550/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-24090] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-26280
+Configuration saved in ./results-1/checkpoint-26280/config.json
+Model weights saved in ./results-1/checkpoint-26280/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-26280/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-26280/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-24820] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-27010
+Configuration saved in ./results-1/checkpoint-27010/config.json
+Model weights saved in ./results-1/checkpoint-27010/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-27010/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-27010/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-25550] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-27740
+Configuration saved in ./results-1/checkpoint-27740/config.json
+Model weights saved in ./results-1/checkpoint-27740/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-27740/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-27740/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-26280] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-28470
+Configuration saved in ./results-1/checkpoint-28470/config.json
+Model weights saved in ./results-1/checkpoint-28470/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-28470/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-28470/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-27010] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-29200
+Configuration saved in ./results-1/checkpoint-29200/config.json
+Model weights saved in ./results-1/checkpoint-29200/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-29200/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-29200/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-27740] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-29930
+Configuration saved in ./results-1/checkpoint-29930/config.json
+Model weights saved in ./results-1/checkpoint-29930/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-29930/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-29930/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-28470] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-30660
+Configuration saved in ./results-1/checkpoint-30660/config.json
+Model weights saved in ./results-1/checkpoint-30660/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-30660/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-30660/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-29200] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-31390
+Configuration saved in ./results-1/checkpoint-31390/config.json
+Model weights saved in ./results-1/checkpoint-31390/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-31390/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-31390/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-29930] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-32120
+Configuration saved in ./results-1/checkpoint-32120/config.json
+Model weights saved in ./results-1/checkpoint-32120/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-32120/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-32120/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-30660] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-32850
+Configuration saved in ./results-1/checkpoint-32850/config.json
+Model weights saved in ./results-1/checkpoint-32850/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-32850/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-32850/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-31390] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-33580
+Configuration saved in ./results-1/checkpoint-33580/config.json
+Model weights saved in ./results-1/checkpoint-33580/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-33580/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-33580/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-32120] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-34310
+Configuration saved in ./results-1/checkpoint-34310/config.json
+Model weights saved in ./results-1/checkpoint-34310/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-34310/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-34310/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-32850] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-35040
+Configuration saved in ./results-1/checkpoint-35040/config.json
+Model weights saved in ./results-1/checkpoint-35040/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-35040/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-35040/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-33580] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-35770
+Configuration saved in ./results-1/checkpoint-35770/config.json
+Model weights saved in ./results-1/checkpoint-35770/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-35770/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-35770/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-34310] due to args.save_total_limit
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to ./results-1/checkpoint-36500
+Configuration saved in ./results-1/checkpoint-36500/config.json
+Model weights saved in ./results-1/checkpoint-36500/pytorch_model.bin
+tokenizer config file saved in ./results-1/checkpoint-36500/tokenizer_config.json
+Special tokens file saved in ./results-1/checkpoint-36500/special_tokens_map.json
+Deleting older checkpoint [results-1/checkpoint-35040] due to args.save_total_limit
+Training completed. Do not forget to share your model on huggingface.co/models =)
+Loading best model from ./results-1/checkpoint-4380 (score: 0.206).
+***** Running Evaluation *****
+  Num examples = 1000
+  Batch size = 16
+Saving model checkpoint to /user_data/CTG/train/DG/Sciq/Bart_mcq_all/sciq/bart-base-text2text-sciq-pretrain-on-mcq-all-e1
+Configuration saved in /user_data/CTG/train/DG/Sciq/Bart_mcq_all/sciq/bart-base-text2text-sciq-pretrain-on-mcq-all-e1/config.json
+Model weights saved in /user_data/CTG/train/DG/Sciq/Bart_mcq_all/sciq/bart-base-text2text-sciq-pretrain-on-mcq-all-e1/pytorch_model.bin
+tokenizer config file saved in /user_data/CTG/train/DG/Sciq/Bart_mcq_all/sciq/bart-base-text2text-sciq-pretrain-on-mcq-all-e1/tokenizer_config.json
+Special tokens file saved in /user_data/CTG/train/DG/Sciq/Bart_mcq_all/sciq/bart-base-text2text-sciq-pretrain-on-mcq-all-e1/special_tokens_map.json
+***** Running Prediction *****
+  Num examples = 1000
+  Batch size = 16
+***** Running Prediction *****
+  Num examples = 1000
+  Batch size = 16
+valid:
