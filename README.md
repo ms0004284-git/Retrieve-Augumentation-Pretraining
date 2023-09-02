@@ -19,7 +19,11 @@ CTG/train/DG/parameter_analysis 下有對兩種參數調整進行分析，一個
 
 ## wikidata
 wikidata 太大沒辦法放上來，所以要重新建立 wikidata 的反向索引
+
 可以參考 https://github.com/castorini/pyserini/blob/master/docs/usage-index.md#building-a-bm25-index-embeddable-python-implementation 
+
 其中 Building a BM25 Index 下的製作方式
+
 我是使用 https://dumps.wikimedia.org/enwiki/latest/ 中
+
 enwiki-latest-pages-articles-multistream.xml.bz2 的檔案來建立反向索引
