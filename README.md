@@ -1,29 +1,35 @@
-# Retrieve-Augumentation-Pretraining
-整個訓練包含兩個階段 RAP 的預訓練跟下游的 fine-tuning
-## RAP pretraining (Cloze/)
+# Retrieve-Augmentation-Pretraining
+The entire training process includes two stages: RAP pretraining and downstream fine-tuning.
+## RAP Pretraining (Cloze/)
 ```
 python Cloze/trainer.py
 ```
-可以直接開始訓練，預設會連到 WAB 可以辦自己的帳號
-Cloze/core/config.py 可以更改超參數以及訓練資料的位置
+You can directly start training using this command. By default, it will connect to WAB. You can register your own account.
 
-訓練資料可以透過 Cloze/data_process 下的 py 檔生成對應的資料
+Hyperparameters and training data paths can be modified in `Cloze/core/config.py`.
+
+Training data can be generated using the Python scripts under `Cloze/data_process`.
 
 ## Fine-tuning (CTG/)
-這裡主要是使用 RAP pretraining 訓練好的 .ckpt 來 fine-tuning，是直接使用之前學姊沿用的腳本
 
-因為每個方法我都會訓練4個 epoch，我每一個都會拿去 fine-tuning，挑分數最好的當作該方法的實驗結果，所以每個方法下都會有4個.ipynb
+This stage mainly uses the `.ckpt` files trained from RAP pretraining for fine-tuning, following the scripts previously used by our senior.
 
-CTG/train/DG/parameter_analysis 下有對兩種參數調整進行分析，一個是調整檢索句子的數量 k，另一個是調整 Sciq 訓練資料量對實驗結果的影響
+Since I train each method for 4 epochs and fine-tune each checkpoint, I will select the one with the best score as the experimental result for that method. Therefore, under each method, there will be 4 `.ipynb` files.
 
+In `CTG/train/DG/parameter_analysis`, there is an analysis of two parameter adjustments: 
+- Adjusting the number of retrieved sentences `k`.
+- Analyzing the impact of SciQ training data volume on experimental results.
 
-## wikidata
-wikidata 太大沒辦法放上來，所以要重新建立 wikidata 的反向索引
+## Wikidata
 
-可以參考 https://github.com/castorini/pyserini/blob/master/docs/usage-index.md#building-a-bm25-index-embeddable-python-implementation 
+Wikidata is too large to upload, so you need to rebuild the reverse index manually.
 
-其中 Building a BM25 Index 下的製作方式
+You can refer to the following guide:  
+https://github.com/castorini/pyserini/blob/master/docs/usage-index.md#building-a-bm25-index-embeddable-python-implementation  
 
-我是使用 https://dumps.wikimedia.org/enwiki/latest/ 中
+Specifically, follow the method under **Building a BM25 Index**.
 
-enwiki-latest-pages-articles-multistream.xml.bz2 的檔案來建立反向索引
+I used the `enwiki-latest-pages-articles-multistream.xml.bz2` file from:  
+https://dumps.wikimedia.org/enwiki/latest/  
+
+to build the reverse index.
